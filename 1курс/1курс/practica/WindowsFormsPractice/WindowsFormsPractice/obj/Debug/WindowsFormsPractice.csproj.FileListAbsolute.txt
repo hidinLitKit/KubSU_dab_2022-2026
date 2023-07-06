@@ -1,0 +1,11 @@
+C:\Users\awe\source\repos\NewRepo\WindowsFormsPractice\WindowsFormsPractice\bin\Debug\WindowsFormsPractice.exe.config
+C:\Users\awe\source\repos\NewRepo\WindowsFormsPractice\WindowsFormsPractice\bin\Debug\WindowsFormsPractice.exe
+C:\Users\awe\source\repos\NewRepo\WindowsFormsPractice\WindowsFormsPractice\bin\Debug\WindowsFormsPractice.pdb
+C:\Users\awe\source\repos\NewRepo\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.csproj.AssemblyReference.cache
+C:\Users\awe\source\repos\NewRepo\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\awe\source\repos\NewRepo\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.Integral.resources
+C:\Users\awe\source\repos\NewRepo\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.Properties.Resources.resources
+C:\Users\awe\source\repos\NewRepo\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.csproj.GenerateResource.cache
+C:\Users\awe\source\repos\NewRepo\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.csproj.CoreCompileInputs.cache
+C:\Users\awe\source\repos\NewRepo\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.exe
+C:\Users\awe\source\repos\NewRepo\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.pdb
